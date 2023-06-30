@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainBG"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg4"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200sp"
+        android:text="@string/_0"
+        android:textAlignment="center"
+        android:textColor="#ACADAD"
+        android:textSize="50sp" />
+
+    <ImageButton
+        android:id="@+id/click"
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_marginLeft="100sp"
+        android:layout_marginTop="100sp"
+        android:backgroundTint="#00FFFFFF"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/click4"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/market"
+        android:layout_width="100sp"
+        android:layout_height="70sp"
+        android:background="#D77642"
+        android:scaleType="fitCenter"
+        app:layout_constraintVertical_bias="0.591"
+        app:srcCompat="@drawable/market"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck"
+        android:layout_marginLeft="200sp"
+        android:layout_marginTop="20sp"/>
+
+    <ImageButton
+        android:id="@+id/statistic"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
+        android:background="#D67642"
+        android:backgroundTint="#00ABACAC"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/statistics"
+        android:layout_marginLeft="100sp"
+        android:layout_marginTop="-70sp"
+        android:contentDescription="@string/todo8" />
+
+</LinearLayout>

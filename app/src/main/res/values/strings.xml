@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">clicker</string>
+    <string name="_0">0</string>
+    <string name="_50_200">Улучшить клик на 50 за 200</string>
+    <string name="_100_500">Улучшить клик на 100 за 500</string>
+    <string name="back">back</string>
+    <string name="_5_50">Улучшить клик на 5 за 50</string>
+    <string name="n_50_n_5">купить лошадь \nстоимость $50\n+$5</string>
+    <string name="todo">TODO</string>
+    <string name="n_1000_n_50">купить мустанг\nстоимость $1000\n+$50</string>
+    <string name="todo1">TODO</string>
+    <string name="n_500_n_100">ограбить караван\nстоимость 500$\n+$100</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="n_10000_n_10">ограбить салун\nстоимость $10000\nавтоклик +$10</string>
+    <string name="n_50000_n_10000">ограбить банк\nстоимость $50000\n+10000</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="n_1000000_n_100">ограбить поезд\nстоимость $1000000\nавтоклик +$100</string>
+    <string name="todo6">TODO</string>
+    <string name="n_5000_n_1000">взять напарника\n стоимость $5000\n автоклик +$1000</string>
+    <string name="todo7">TODO</string>
+    <string name="n_500_n_50">купить мустанг\nстоимость $500\n+$50</string>
+    <string name="n_1000_n_100">ограбить караван\nстоимость $1000\n+$100</string>
+    <string name="n_10000_n_100">ограбить салун\nстоимость $10000\nавтоклик +$100</string>
+    <string name="n_5000_n_50">взять напарника\nстоимость $5000\n автоклик +$50</string>
+    <string name="n_1000000_n_1000">ограбить поезд\nстоимость $1000000\nавтоклик +$1000</string>
+    <string name="n_2500_n_75">взять напарника\nстоимость $2500\nавтоклик +$75</string>
+    <string name="todo8">TODO</string>
+</resources>
